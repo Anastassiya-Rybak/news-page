@@ -2,6 +2,12 @@ header {
     border-bottom: 0.5px solid rgba(0, 0, 0, 0.505) !important;
     box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.354);
 }
+.back-1 {
+    /* background-image: url(./img/background-3246124_1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
 .logo {
     color: cornflowerblue !important;
     font-size: 42px;
@@ -11,10 +17,13 @@ header {
 .card-img-wrap {
     height: 200px;
 }
-
 .search-btn {
     border: 1px solid cornflowerblue !important;
 }
 .search-btn:hover {
     background-color: rgba(100, 148, 237, 0.6);
+}
+.btn-menu {
+    border: 1px solid cornflowerblue;
+    background-color: rgba(100, 148, 237, 0.402);
 }
